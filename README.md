@@ -9,7 +9,7 @@ Press the `left mouse button` to change the image being Van-Goghified.
 ## Preview
 
  Here's how it transforms a picture:
-![Preview](https://github.com/Embla-Flatlandsmo/processing-van-goghify/blob/master/OmBul_jul.png)
+![Preview](https://github.com/Embla-Flatlandsmo/processing-van-goghify/blob/master/build/OmBul_jul.png)
 
 
 
