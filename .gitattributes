@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+build/build-tmp/* linguist-generated
+build/out/* linguist-generated
+build/.vscode/* linguist-generated
